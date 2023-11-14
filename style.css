@@ -134,3 +134,23 @@ body {
     outline: none;
     border-radius: 36px;
 }
+
+.cart {
+    width: 159px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fafafa;
+    padding: 10px;
+    border-radius: 36px;
+}
+
+.cart span {
+    color: #274C5B;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding: 5px;
+}
